@@ -1,0 +1,152 @@
+body{
+
+	 background:rgb(233, 230, 230);
+	 font-family:"Lucida Console",Courier,monospace;
+	
+}
+.skills,.h{
+	color: rgb(12, 145, 197);;
+	margin-bottom: 40px;
+	font-weight: bold;
+}
+/* start upper bar  */
+.upper-bar{
+    background-color:  rgb(54, 55, 56);;
+    
+    padding: 20px;
+    color: #FFF;
+}
+.p{
+	color: rgb(95, 93, 93);
+}
+
+.upper-bar .get-quote{
+    display: inline-block;
+    border: 1px solid #ec1c23;
+    padding: 2px 10px;
+    margin-left: 20px;
+    
+}
+.lead, .intro,.skil,h4{
+	color: rgb(95, 93, 93);;
+}
+
+
+/* End upper bar  */
+ 
+.intro span{
+	color:rgb(12, 145, 197);
+	margin-right: 20px;
+}
+
+ /* NEQAB*/
+ .neqab{
+	 max-width:100%;
+	 
+	 border-radius:50%;
+ }
+ .aneqab{
+	 width:100%;
+ }
+.neqabdiv{
+	 background:rgb(233, 230, 230);
+	 padding:20px;
+ }
+ .myname{
+	
+	 text-align:center;
+font-size:30px;
+ }
+ .footer{
+	 padding-top:3%;
+	 padding-bottom:2%;
+	 background:rgb(4, 10, 15);
+	 color:rgb(118, 127, 141);
+	
+ }
+ 
+ .icons{
+	 margin-bottom:1%;
+ }
+ .fa-whatsapp{
+	 color:rgb(40, 243, 40);
+ }
+ .fa-facebook-f  , .fa-twitter ,.fa-telegram{
+	 background:blue;
+	
+	 color:white;
+ }
+ ul li{
+	  list-style:none;
+ }
+ .copy{
+	 color:rgb(104, 97, 97);
+ }
+ .neqab{
+	 -webkit-transition:box-shadow 0.5s ;
+	   -moz-transition:box-shadow 0.5s  ease;
+	   -o-transition:box-shadow 0.5s  ease;
+ }
+ .neqab:hover{
+	
+	
+	 size:80px;
+ }
+ .intro{
+	 padding: 50px;
+	 background:white;
+	border-left:6px solid rgb(12, 145, 197);
+	margin-bottom:30px;
+		 box-shadow:10px 10px 3px grey;
+		
+		
+	 
+ }
+ /* div2 */
+ .div2{
+	 display:none;
+ }
+ 
+ .img{
+	 opacity:0;
+	 border:3px solid rgb(12, 145, 197);
+	  box-shadow:5px 10px 5px #333;
+ }
+.pr{
+	opacity:0.6;
+	-webkit-transition:all 1s  ease;
+	   -moz-transition:all 1s  ease;
+	   -o-transition:all 1s  ease;
+}
+.pr:hover{
+	 opacity:1;
+ }
+.carousel-caption{
+	display:none;
+}
+hr{
+	height:10px;
+	color:red;
+	background:rgb(12, 145, 197);
+}
+ .eng{
+	 color:rgb(12, 145, 197);
+	 
+ }
+ 
+ .navbar-dark .navbar-brand {
+	color:rgb(12, 145, 197);
+	text-shadow:2px 2px white;
+	font-size:1.5em;
+}
+.po{
+	color:rgb(12, 145, 197);
+	text-shadow:2px 2px #000;
+}
+.fa{
+	color:orange;
+	
+}
+.project_details{
+	margin-bottom:10%;
+}
